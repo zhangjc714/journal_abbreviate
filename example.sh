@@ -1,0 +1,1 @@
+python .\abbreviate.py --file ".\references.bib"
