@@ -1,6 +1,6 @@
 # Abbreviate the Journal Names in the `.bib` File
 
-![img](./img.jpg)
+![img](./image.jpg)
 
 A small command-line utility to replace full journal and conference names in a BibTeX (`.bib`) file with their standard abbreviations using a configurable mapping file.
 
